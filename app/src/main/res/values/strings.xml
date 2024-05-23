@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">UniHive</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login to Continue</string>
+    <string name="name">Name</string>
+    <string name="add_image">Add Image</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="price_symbol">₹</string>
+
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>CSET209: [L] Operating System</item>
+        <item>CSET205: [P] Operating System</item>
+        <item>Break</item>
+        <item>CSET210: [P] Design Thinking and Innovation</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>CSET207: [P] Computer Networks</item>
+        <item>CSET207: [L] Computer Networks</item>
+        <item>Break</item>
+        <item>CSET227: [P] System and Network Security</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>CSET207: [L] Computer Networks</item>
+        <item>CSET206: [L] Design and Analysis of Algorithms</item>
+        <item>CSET227: [L] System and Network Security</item>
+        <item>Break</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>CSET206: [T] Design and Analysis of Algorithms</item>
+        <item>CSET206: [L] Design and Analysis of Algorithms</item>
+        <item>CSET209: [L] Operating System</item>
+        <item>EBTYL183L: [L] Biological Machines</item>
+        <item>CSET227: [L] System and Network Security</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>CSET206: [L] Design and Analysis of Algorithms</item>
+        <item>CSET209: [L] Operating System</item>
+        <item>Break</item>
+        <item>CSET206: [P] Design and Analysis of Algorithms</item>
+        <item>CSET207: [L] Computer Networks</item>
+        <item>EBTYL183L: [L] Biological Machines</item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>9:30AM - 10.25AM</item>
+        <item>10:40AM - 12:35PM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30PM - 3:25PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:30AM - 10.25AM</item>
+        <item>11:40AM - 12:35PM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30PM - 3:25PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:30AM - 9:25AM</item>
+        <item>9:25AM - 10.25AM</item>
+        <item>11:40AM - 12:35PM</item>
+        <item>12:40PM - 1:30PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>9:30AM - 10.25AM</item>
+        <item>10:40AM - 11:30AM</item>
+        <item>11:40AM - 12:35PM</item>
+        <item>12:40PM - 2:25PM</item>
+        <item>2:30PM - 4:30PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>10:40AM - 11:30AM</item>
+        <item>11:40AM - 12:35PM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30PM - 3:25PM</item>
+        <item>3:40PM - 4:30PM</item>
+        <item>4:40PM - 5:35PM</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

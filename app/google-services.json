@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441070118573",
+    "project_id": "unihivedti",
+    "storage_bucket": "unihivedti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441070118573:android:0d4b49086eb40835238824",
+        "android_client_info": {
+          "package_name": "com.example.uniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZgL3ogGLWsRjPtaFHi_JyxkG3LIVjvuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
