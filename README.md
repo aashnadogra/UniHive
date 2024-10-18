@@ -1,4 +1,4 @@
-# UniHive - Your Ultimate Student Companion
+# UniHive - Your All-in-one Campus Companion
 
 **UniHive** is a mobile application designed specifically for university students, helping them streamline academic and social activities. With a user-friendly interface, UniHive provides various tools to simplify access to resources, interactions with peers, and staying updated on university events.
 
