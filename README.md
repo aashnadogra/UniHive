@@ -14,7 +14,7 @@ Once logged in, the main page includes:
 - **Logout Button**: Easily accessible in the top right corner.
 - **6 Clickable Options** for accessing the core features of the app.
 
-### 1. TutorPoint
+### 1. StudySesh
 - **View & Upload Notes**: Access study materials uploaded by others or share your own.
 
 ### 2. Academics
@@ -29,10 +29,10 @@ A student marketplace to buy, sell, and rent items within the university:
 - **Basket**: Manage the items you’re interested in purchasing.
 - **Account**: View and manage your profile details.
 
-### 4. MyGang
+### 4. VibeCheck
 - **Chat Feature**: Message your friends and stay connected with other students.
 
-### 5. GeekTalks
+### 5. ThoughtDrop
 - **Student Blogs**: Access and post blogs written by students on various topics.
 
 ### 6. Event Calendar
